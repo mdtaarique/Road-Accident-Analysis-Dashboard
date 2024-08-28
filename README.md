@@ -37,3 +37,5 @@ Additionally, each KPI is supplemented with the percentage increase or decrease 
 The UK Road Accident Analysis Power BI Dashboard is designed to provide a comprehensive understanding of road accidents in the United Kingdom during the years 2021 and 2022. By harnessing data cleaning, visualization techniques, and dynamic KPIs, this dashboard offers insights into accident trends, casualties, and contributing factors. The inclusion of geographical distribution mapping further enhances the contextualization of the data.
 
 # Dashboard
+![Dashboard](https://github.com/user-attachments/assets/0d5c518e-5fc2-442f-9345-365b733bac54)
+
